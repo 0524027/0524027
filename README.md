@@ -30,3 +30,9 @@ Email:0524009@nkust.edu.tw
 
 # 利害關係人
 ![image](https://github.com/0524027/0524027/blob/master/%E5%88%A9%E5%AE%B3%E9%97%9C%E4%BF%82%E4%BA%BA.gif)
+
+# 事件表
+![image](https://github.com/0524027/0524027/blob/master/%E4%BA%8B%E4%BB%B6%E8%A1%A8.gif)
+
+# 使用案例圖
+![image](https://github.com/0524027/0524027/blob/master/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96.gif)
