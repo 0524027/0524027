@@ -54,4 +54,4 @@ Email:0524009@nkust.edu.tw
 ![image](https://github.com/0524027/0524027/blob/master/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B7.gif)
 
 # 系統活動圖
-![image](https://github.com/0524027/0524027/blob/master/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.gif)
+![image](https://github.com/0524027/0524027/blob/master/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.png)
