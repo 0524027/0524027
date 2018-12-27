@@ -55,3 +55,7 @@ Email:0524009@nkust.edu.tw
 
 # 系統活動圖
 ![image](https://github.com/0524027/0524027/blob/master/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.png)
+
+# 循序圖
+![image](https://github.com/0524027/2018-nkust-oo/blob/master/%E5%BE%AA%E5%BA%8F%E5%9C%96.png)
+
